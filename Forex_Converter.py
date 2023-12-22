@@ -1,9 +1,9 @@
 
 
-#**********************************************************#
-# Tool which will provide you with the exchange rate
+#***********************************************************************************************#
+# Tool which will provide you with the exchange rate for currencies provided in the dictionary
 # Created by Sahill Sharma - 20/12/2023
-#**********************************************************#
+#***********************************************************************************************#
 
 
 from forex_python.converter import CurrencyRates
